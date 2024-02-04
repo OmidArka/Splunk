@@ -1,0 +1,10 @@
+Setting ->data inputs->files&directories->New local file & directory 
+Search in web.conf 
+
+called $SPLUNK_HOME/etc/system/local/web.conf
+
+or
+
+vim.tiny /opt/splunk/etc/system/default/web.conf
+
+:wq!
