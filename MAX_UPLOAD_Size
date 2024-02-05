@@ -1,7 +1,7 @@
 Setting ->data inputs->files&directories->New local file & directory 
 Search in web.conf 
 
-called $SPLUNK_HOME/etc/system/local/web.conf
+called $SPLUNK_HOME/opt/splunk/etc/system/local/web.conf
 
 or
 
